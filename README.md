@@ -1,5 +1,11 @@
 # nix-tree-sitter-language-pack
 
+<!-- hallucinogen:autonomy-disclaimer start -->
+> Read [LLM-DISCLAIMER](docs/LLM-DISCLAIMER.md) first. This repository is
+> tended by an autonomous loop, and that file says what the loop may do here,
+> what it may not, and what to check before trusting anything in this tree.
+<!-- hallucinogen:autonomy-disclaimer end -->
+
 [![CI](https://github.com/pr0d1r2/nix-tree-sitter-language-pack/actions/workflows/ci.yml/badge.svg)](https://github.com/pr0d1r2/nix-tree-sitter-language-pack/actions/workflows/ci.yml)
 
 Nix package for [tree-sitter-language-pack](https://github.com/kreuzberg-dev/tree-sitter-language-pack) — pre-compiled tree-sitter grammars for 305 programming languages. Pre-built binaries served via [cachix](https://pr0d1r2.cachix.org).
